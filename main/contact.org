@@ -12,8 +12,4 @@ always say «hi», I will definitely have a conversation with you.
 
 - Twitter: [[https://twitter.com/_Gafanhoto][Afonso (gafanhoto)]]
 - Mastodon: [[https://masto.pt/@gafanhoto][gafanhoto]]
-- Instagram: [[https://www.instagram.com/o_gafanhoto_/][O gafanhoto]]
-- GitHub: [[https://github.com/Alf0nso][Afonso Rafael]]
-- TikTok: [[https://www.tiktok.com/@grassyyhopper][Grassy]]
-- Email: afonsorafael [at] sapo [dot] pt
-- public key: [[./publickey.html][publickey]]
+- github: [[https://github.com/lauriruri][lauriruri]]
